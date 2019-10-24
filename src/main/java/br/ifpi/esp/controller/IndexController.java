@@ -1,4 +1,4 @@
-package br.com.caelum.vraptor.controller;
+package br.ifpi.esp.controller;
 
 import javax.inject.Inject;
 

@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
-	<description>A blank project to start using VRaptor 4</description>
+	<description>API para gestão finaceira pessoal usando VRaptor 4 e MySQL</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
